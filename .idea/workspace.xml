@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ca1470bc-b838-42a0-9a2f-bc94a7fb3def" name="Changes" comment="-se agrego el CLI y Main se agregaron como clases distintas&#10;-el logaritmo se obtuvo con divisiones sucesivas&#10;-Se agrego el diagrama de flujo" />
+    <list default="true" id="ca1470bc-b838-42a0-9a2f-bc94a7fb3def" name="Changes" comment="-se agrego el CLI y Main se agregaron como clases distintas&#10;-el logaritmo se obtuvo con divisiones sucesivas&#10;-Se agrego el diagrama de flujo">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -13,7 +15,7 @@
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="act2" />
+        <entry key="$PROJECT_DIR$" value="Act1" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -49,10 +51,12 @@
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.typescript.service.memoryLimit.init&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;act3&quot;,
     &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
     &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
     &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
     &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
     &quot;project.structure.last.edited&quot;: &quot;Libraries&quot;,
     &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
     &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
@@ -102,6 +106,9 @@
       <workItem from="1770007984208" duration="82000" />
       <workItem from="1770008082583" duration="140000" />
       <workItem from="1770008229011" duration="54000" />
+      <workItem from="1770009761521" duration="300000" />
+      <workItem from="1770010157300" duration="74000" />
+      <workItem from="1770010354677" duration="280000" />
     </task>
     <option name="localTasksCounter" value="2" />
     <servers />
