@@ -5,16 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ca1470bc-b838-42a0-9a2f-bc94a7fb3def" name="Changes" comment="-">
-      <change afterPath="$PROJECT_DIR$/Java/src/edu/ivan/valdivia/act3/foto_png/foto.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Java/src/edu/ivan/valdivia/act3/process/Empleado.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Java/src/edu/ivan/valdivia/act3/process/Empleado_lista.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Java/src/edu/ivan/valdivia/act3/process/Numeros_enteros.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Java/src/edu/ivan/valdivia/act3/process/String.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Java/src/edu/ivan/valdivia/act3/process/Test_empleados.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Java/src/edu/ivan/valdivia/act3/process/Test_numero_enteros.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Java/src/edu/ivan/valdivia/act3/process/Test_string.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/src/edu/ivan/valdivia/act3/process/Numeros_enteros.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java/src/edu/ivan/valdivia/act3/process/Numeros_enteros.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/src/edu/ivan/valdivia/act3/process/String.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/src/edu/ivan/valdivia/act3/process/Test_empleados.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java/src/edu/ivan/valdivia/act3/process/Test_Empleados.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/src/edu/ivan/valdivia/act3/process/Test_numero_enteros.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java/src/edu/ivan/valdivia/act3/process/Test_numero_enteros.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/src/edu/ivan/valdivia/act3/process/Test_string.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java/src/edu/ivan/valdivia/act3/process/Test_Cadenautils.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -68,18 +64,20 @@
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "RunOnceActivity.MCP Project settings loaded": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
     "RunOnceActivity.git.unshallow": "true",
     "RunOnceActivity.typescript.service.memoryLimit.init": "true",
-    "git-widget-placeholder": "Actividad-3",
+    "git-widget-placeholder": "actividad3",
     "kotlin-language-version-configured": "true",
     "node.js.detected.package.eslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
     "onboarding.tips.debug.path": "C:/Users/Ivan Valdivia/IdeaProjects/newPOOProject_2/src/Main.java",
-    "project.structure.last.edited": "Project",
+    "project.structure.last.edited": "Libraries",
     "project.structure.proportion": "0.15",
     "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "preferences.general",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
@@ -134,9 +132,18 @@
       <workItem from="1770009761521" duration="300000" />
       <workItem from="1770010157300" duration="74000" />
       <workItem from="1770010354677" duration="280000" />
-      <workItem from="1770143788583" duration="335000" />
+      <workItem from="1770143788583" duration="1929000" />
+      <workItem from="1770145748619" duration="88000" />
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="-">
+      <option name="closed" value="true" />
+      <created>1770144278392</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1770144278392</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
