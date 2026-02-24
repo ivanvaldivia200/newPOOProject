@@ -5,15 +5,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ca1470bc-b838-42a0-9a2f-bc94a7fb3def" name="Changes" comment="-se agrego el CLI y Main se agregaron como clases distintas&#10;-el logaritmo se obtuvo con divisiones sucesivas&#10;-Se agrego el diagrama de flujo">
-      <change afterPath="$PROJECT_DIR$/Java/src/edu/ivan/valdivia/act3/process/CadenaUtils.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Java/src/edu/ivan/valdivia/act3/process/Empleados.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Java/src/edu/ivan/valdivia/act3/process/Empleados_lista.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Java/src/edu/ivan/valdivia/act3/process/Numeros_Entero.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Java/src/edu/ivan/valdivia/act3/process/Test_Cadenautil.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Java/src/edu/ivan/valdivia/act3/process/Test_Empleados.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Java/src/edu/ivan/valdivia/act3/process/Test_Numeros_entero.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/src/edu/ivan/valdivia/act3/process/CadenaUtils.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java/src/edu/ivan/valdivia/act3/process/CadenaUtils.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/src/edu/ivan/valdivia/act3/process/Empleados.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java/src/edu/ivan/valdivia/act3/process/Empleados.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/src/edu/ivan/valdivia/act3/process/Empleados_lista.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java/src/edu/ivan/valdivia/act3/process/Empleados_lista.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/src/edu/ivan/valdivia/act3/process/Numeros_enteros.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java/src/edu/ivan/valdivia/act3/process/Numeros_enteros.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/src/edu/ivan/valdivia/act3/process/Test_Cadenautil.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java/src/edu/ivan/valdivia/act3/process/Test_Cadenautil.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/src/edu/ivan/valdivia/act3/process/Test_Empleados.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java/src/edu/ivan/valdivia/act3/process/Test_Empleados.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/src/edu/ivan/valdivia/act3/process/Test_Numeros_enteros.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java/src/edu/ivan/valdivia/act3/process/Test_Numeros_enteros.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -30,7 +29,7 @@
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="master" />
+        <entry key="$PROJECT_DIR$" value="Proyecto-final" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -61,6 +60,8 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.Test_Empleados.executor": "Run",
+    "Application.Test_Numeros_enteros.executor": "Run",
     "Downloaded.Files.Path.Enabled": "false",
     "JUnit.Test_Empleados.executor": "Run",
     "ModuleVcsDetector.initialDetectionPerformed": "true",
@@ -71,7 +72,7 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
     "RunOnceActivity.typescript.service.memoryLimit.init": "true",
-    "git-widget-placeholder": "activi3",
+    "git-widget-placeholder": "#5 on activi3",
     "kotlin-language-version-configured": "true",
     "node.js.detected.package.eslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -143,7 +144,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="-se agrego el CLI y Main se agregaron como clases distintas&#10;-el logaritmo se obtuvo con divisiones sucesivas&#10;-Se agrego el diagrama de flujo" />
-    <option name="LAST_COMMIT_MESSAGE" value="-se agrego el CLI y Main se agregaron como clases distintas&#10;-el logaritmo se obtuvo con divisiones sucesivas&#10;-Se agrego el diagrama de flujo" />
+    <MESSAGE value="." />
+    <option name="LAST_COMMIT_MESSAGE" value="." />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

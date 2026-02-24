@@ -1,58 +1,31 @@
 package edu.ivan.valdivia.act3.process;
 
-/**Clase que representa a un empleado con nombre, edad, salario y departamento.*/
+//Clase que representa a un empleado con edad, salario y departamento.
 public class Empleados {
-    private String nombre;
     private int edad;
     private double salario;
-    private String departamento;
+    private int departamento; // número en lugar de texto
 
-    public Empleados(String nombre, int edad, double salario, String departamento) {
-        this.nombre = nombre;
+    //Constructor para crear un empleado.
+
+    public Empleados(int edad, double salario, int departamento) {
         this.edad = edad;
         this.salario = salario;
         this.departamento = departamento;
     }
 
-    public String getNombre() {
-        return nombre;
-    }
-
+    //obtiene la edad del empleado */
     public int getEdad() {
         return edad;
     }
 
+    //obtiene el salario del empleado */
     public double getSalario() {
         return salario;
     }
 
-    public String getDepartamento() {
+    //obtiene el departamento del empleado */
+    public int getDepartamento() {
         return departamento;
-    }
-
-    public void setNombre(String nombre) {
-        this.nombre = nombre;
-    }
-
-    public void setEdad(int edad) {
-        this.edad = edad;
-    }
-
-    public void setSalario(double salario) {
-        this.salario = salario;
-    }
-
-    public void setDepartamento(String departamento) {
-        this.departamento = departamento;
-    }
-
-    @Override
-    public String toString() {
-        return "Empleado{" +
-                "nombre='" + nombre + '\'' +
-                ", edad=" + edad +
-                ", salario=" + salario +
-                ", departamento='" + departamento + '\'' +
-                '}';
     }
 }

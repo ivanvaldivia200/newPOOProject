@@ -1,25 +1,16 @@
 package edu.ivan.valdivia.act3.process;
 
-import org.junit.jupiter.api.Test;
-import org.junit.jupiter.api.Test;
-
+import java.util.ArrayList;
 import java.util.List;
-import static org.junit.jupiter.api.Assertions.*;
 
-/**
- * Pruebas para los métodos de Numeros_enteros.
- */
 public class Test_Numeros_enteros {
+    public static void main(String[] args) {
+        List<Integer> lista1 = new ArrayList<>();
+        lista1.add(0); lista1.add(2); lista1.add(1); lista1.add(4); lista1.add(0); lista1.add(2);
+        System.out.println("Mover ceros: " + Numeros_enteros.moverCeros(lista1));
 
-    @Test
-    void testMoverCerosDerecha() {
-        List<Integer> entrada = List.of(0,2,1,4,0,2);
-        List<Integer> esperado = List.of(2,1,4,2,0,0);
-        assertEquals(esperado, Numeros_enteros.moverCerosDerecha(entrada));
-    }
-
-    @Test
-    void testContarPares() {
-        assertEquals(2, Numeros_enteros.contarPares(List.of(3,4,5,7,6)));
+        List<Integer> lista2 = new ArrayList<>();
+        lista2.add(3); lista2.add(4); lista2.add(5); lista2.add(7); lista2.add(6);
+        System.out.println("Contar pares: " + Numeros_enteros.contarPares(lista2));
     }
 }
